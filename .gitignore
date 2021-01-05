@@ -27,3 +27,5 @@ tags
 [._]*.un~
 
 
+# sbt
+target/
