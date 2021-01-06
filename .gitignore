@@ -42,3 +42,9 @@ project/plugins/project/
 .scala_dependencies
 .worksheet
 .idea
+
+# coc-metals
+.metals/
+.bloop/
+project/metals.sbt
+.ammonite/
