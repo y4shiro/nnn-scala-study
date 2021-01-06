@@ -1,1 +1,1 @@
-object Main extends App { println("Hello Scala") }
+object Main extends App { println("アプリケーションを実行しました") }
