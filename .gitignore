@@ -48,3 +48,6 @@ project/plugins/project/
 .bloop/
 project/metals.sbt
 .ammonite/
+
+# directory
+practice/
