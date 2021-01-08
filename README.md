@@ -1,4 +1,4 @@
-# nn-scala-study
+# nnn-scala-study
 
 n 予備校 の 大規模 Web アプリ Scala 基礎で学んだコードをコミットする
 
